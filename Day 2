@@ -55,6 +55,8 @@ Area=28.27, Circumference=18.85
 
 */
 
+//Solution : here float function to be used as it is related to circle and the value of PI is predefined by me.
+
 #include <stdio.h>
 #define PI 3.14   // Giving the value of pi for calculating 
 
